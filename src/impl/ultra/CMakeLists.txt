@@ -1,0 +1,7 @@
+add_subdirectory(io)
+add_subdirectory(data)
+add_subdirectory(util)
+add_subdirectory(algo)
+add_subdirectory(image)
+add_subdirectory(projection)
+add_subdirectory(plot)
